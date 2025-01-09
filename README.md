@@ -5,7 +5,7 @@
 [![image-2025-01-09-064030309.png](https://i.postimg.cc/wxttvKLx/image-2025-01-09-064030309.png)](https://postimg.cc/8sSkK0Zx)
 
   <br/>
-
+  web para probar:  https://bob-corn.vercel.app
   <div>
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
     <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
