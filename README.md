@@ -65,20 +65,20 @@ Instala las dependencias del proyecto con npm:
 npm install
 ```
 
-*instalar comandos prisma*
-
-Instalar y importar los atributos de los schemas de prisma:
-
-```bash
-npx prisma generate
-```
-
 *Asignar BD al proyecto*
 
 agregar la siguiente variable de entorno al archivo ".env", este tambien debe ser creado en la raiz del proyecto "./":
 
 ```bash
 DATABASE_URL= # "postgresql://user:password@domain/nameBD?sslmode=require"
+```
+
+*instalar comandos prisma*
+
+Instalar y importar los atributos de los schemas de prisma:
+
+```bash
+npx prisma generate
 ```
 
 Debes tener una url publica que apunte a una base de datos de postgres para poder migrar los schemas a la nueva base de datos con el siguiente comando:
