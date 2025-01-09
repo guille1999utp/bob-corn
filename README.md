@@ -27,6 +27,7 @@
 
 1. ⚙ [Tecnologias](#tech-stack)
 2. 🤸 [Comenzar con la aplicacion en entorno local](#quick-start)
+3.  [Fuentes externas que se usaron para la construccion del proyecto](#font-extern)
 
 
 ## <a name="tech-stack">⚙ Tecnologias</a>
@@ -94,3 +95,13 @@ npm run dev
 Abre [http://localhost:3000](http://localhost:3000) en tu navegador para ver el proyecto.
 
 
+## <a name="font-extern"> Fuentes externas que se usaron para la construccion del proyecto</a>
+
+<ul>
+  <li>https://ui.shadcn.com/docs/installation/next</li>
+  <li>https://theme-toggle.rdsx.dev/</li>
+  <li>https://www.svgrepo.com/svg/138377/corn</li>
+  <li>https://neumorphism.io/#e0e0e0</li>
+  <li>https://convertio.co/es/png-ico/</li>
+  <li> https://github.com/tandpfun/skill-icons#readme</li>
+</ul>
