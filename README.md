@@ -106,5 +106,5 @@ Abre [http://localhost:3000](http://localhost:3000) en tu navegador para ver el 
   <li>https://neumorphism.io/#e0e0e0</li>
   <li>https://convertio.co/es/png-ico/</li>
   <li> https://github.com/tandpfun/skill-icons#readme</li>
-  <li> https://console.neon.tech</li>
+  <li>https://neon.tech/</li>
 </ul>
